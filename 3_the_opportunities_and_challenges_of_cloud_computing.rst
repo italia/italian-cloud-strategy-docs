@@ -89,6 +89,9 @@ transparency and interoperability, capable of connecting centralised and
 decentralised infrastructures, and transforming them into a homogeneous
 system.
 
+.. figure:: images/3.jpg
+    :alt: Figure showing Cloud Computing challenges.
+
 .. [2]
    Conversion into law, with amendments, of Leg. Decree 21 September
    2019, no. 105, on urgent provisions concerning the National Cyber

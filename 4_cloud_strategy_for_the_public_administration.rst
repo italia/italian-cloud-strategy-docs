@@ -34,6 +34,9 @@ harmonise and regulate the adoption of the Cloud in the PA, as well as
 to apply economies of scale to encourage a reduction in management costs
 by offering more reliable and resilient digital services.
 
+.. figure:: images/4.jpg
+    :alt: Figure showing the guidelines of the Cloud Strategy.
+
 4.1 Classification of Data and Services
 ================================================================================
 
@@ -135,6 +138,9 @@ The spectrum of Cloud services varies from:
   technological scrutiny and certification procedures, i.e. *Qualified
   Private Cloud (IT)*.
 
+.. figure:: images/4.1.jpg
+    :alt: Figure showing Cloud Services classification.
+
 The qualified Cloud services shall be used, according to the data
 classification outcome, enforcing the following constraints:
 
@@ -146,6 +152,9 @@ classification outcome, enforcing the following constraints:
 
 * The Licensed Private/Hybrid and Qualified Private Cloud shall host
   *strategic* data and services.
+
+.. figure:: images/4.2.jpg
+    :alt: Figure showing usage of Cloud Services classification
 
 The process of qualification of Cloud services, in order to simplify the
 adoption of Cloud services in the PA should end with the creation of an
@@ -192,6 +201,9 @@ In accordance with the classification and qualification procedures, the
 aim of the NSH is to support central administrations and the main local
 administrations, e.g. regional PA, local health authorities and
 metropolitan cities.
+
+.. figure:: images/4.3.jpg
+    :alt: Figure showing Italy's map of PA data centres prevision.
 
 .. [8]
    For example, the international standards ISO 27017/27018, ISO 22301

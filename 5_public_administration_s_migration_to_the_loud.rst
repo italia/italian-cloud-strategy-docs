@@ -19,3 +19,6 @@ categorisation on the basis of the impact of potential data breach,
 regulatory constraints and security. The migration plan will be
 validated and confirmed by the Department and the Agency in order to
 ensure enforcement of the national Cloud strategy.
+
+.. figure:: images/5.jpg
+    :alt: Figure showing actors involved in the processo of Migration to the Cloud.
