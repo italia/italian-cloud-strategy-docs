@@ -4,6 +4,7 @@ services:
     build: .
     volumes:
       - ./index.rst:/app/index.rst
+      - ./executive_summary.rst:/app/executive_summary.rst
       - ./images:/app/images
       - ./1_introduction.rst:/app/1_introduction.rst
       - ./2_cloud_computing.rst:/app/2_cloud_computing.rst
