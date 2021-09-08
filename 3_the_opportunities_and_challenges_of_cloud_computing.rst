@@ -104,12 +104,9 @@ system.
 
 .. [4]
    See, for example,
-   https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-
-   worldwide-
-   iaas-public-cloud-services-market-grew-31point3-percent-in-2018 and
-   https://www.idc.com/getdoc. jsp?containerId=prUS45552219 and
-   https://www.forbes.com/sites/steveandriole/2019/11/20/forrester-research-gets-
-   cloud--computing-trends-right/#5b30ee4468a2.
+   https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-worldwide-iaas-public-cloud-services-market-grew-31point3-percent-in-2018
+   and https://www.idc.com/getdoc.jsp?containerId=prUS45552219 and
+   https://www.forbes.com/sites/steveandriole/2019/11/20/forrester-research-gets-cloud--computing-trends-right/#5b30ee4468a2.
 
 .. [5]
    Examples are the National Intelligence Law of the People’s Republic
